@@ -7,6 +7,6 @@ public class Atividade1{
         double pi = 3.14159;
         double result = pi * raio * raio;
 System.out.printf("Resultado: %f", result);
-
+scan.close();
     }
 }

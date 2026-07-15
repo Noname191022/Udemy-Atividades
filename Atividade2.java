@@ -8,5 +8,6 @@ public class Atividade2 {
 
         int soma = numero2 + numero1;
         System.out.printf("A Soma dos valores é: %d", soma);
+        scan.close();
     }
 }

@@ -9,5 +9,6 @@ if (numero>0){
 } else {
     System.out.println("O numero é Negativo.");
 }
+scan.close();
     }
 }
